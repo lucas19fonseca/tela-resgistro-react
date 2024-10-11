@@ -1,0 +1,37 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10em;
+    height: 24em;
+    width: 40em;
+    background-color: #eeeeee;
+    margin-left: 40em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+.botao{
+    width: 173px;
+    padding: 4px;
+    width: 43em;
+    height: 40px;
+    border-radius: 10px;
+}
+.nome{
+    display: flex;
+    flex-direction: column;
+    width: 36em;
+    margin-bottom:2em;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 13px;
+    border: none;
+}
+.titulo{
+    font-size: 3em;
+    margin-bottom: 1em;
+}
